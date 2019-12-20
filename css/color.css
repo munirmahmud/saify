@@ -1,0 +1,33 @@
+/* Saify Colors */
+.tray-breadcrumb li a, .tray-breadcrumb li, .tray-breadcrumb li:before, .tray-small-view ul li:hover .tray-icon,.tray-small-view ul li:hover h2, .tray-service-wrap:hover .tray-icon i, .tray-services li:hover .tray-infowrap a, .tray-page-title h1,
+.text-color, .tray-color,.text-hover-color:hover,.widget_categories ul > li:hover > a,.widget_categories ul > li:hover > a:before,.tray-page-title h1,
+.tray-breadcrumb li a,.tray-breadcrumb li:before,.widget_search form label:before {
+	color: #1A9FD6;
+}
+
+.header-topbar, .tray-bgcolor, .tray-bgcolorhover:hover,.main-navigation ul li a:before,.main-navigation .rex-dropdown > li:hover > a, 
+.flex-control-paging li a.flex-active,.flex-control-paging li a:hover, .tray-caption h1:before, .tray-pagination li:hover a,
+.tray-pagination li.active a, div.progressBar, .tray-blog-grid ul li:hover .tray-more-btn,.nav-tabs > li.active > a,
+.tray-contact-info li span:before,.tray-contact-info li a:before,.owl-dot.active,.ticker-controls li a:hover,.percent-bar,.layout-btn a span,
+.selected, .bg-hover-color:hover, .tray-tags a:hover, .parallex-detail a:hover{
+	background-color: #1A9FD6;
+}
+
+.tray-map, .tray-page-title h1, a:hover,.rex-dropdown,.tray-fancy-divider:before,
+.tray-fancy-divider span.tray-first-dote, .tray-fancy-divider span.tray-sec-dote, .tray-fancy-divider span.tray-third-dote, 
+.tray-fancy-divider:after, .tray-slide-testimonial figure img, .tray-page-title h1,#tray-comments ul li figure,
+.tray-list-view ul li .map-btn,.tray-blog figure figcaption a, .tray-map, .four-zero-four span, .tray-tags a:hover, .parallex-detail a:hover {
+	border-color: #1A9FD6;
+}
+
+.nav-tabs > li.active > a:before {
+	border-top: 8px solid #edb542;
+}
+
+/* White Color Scheme */
+.tray-topinfo li a, .tray-topinfo li,.tray-stripinfo li a,.tray-stripinfo li, .tray-topstrip, .tray-social-media li a, .flex-direction-nav a:hover,
+.main-navigation .rex-dropdown > li:hover > a, .tray-blog-grid ul li:hover .tray-more-btn, .tray-pagination li.active a, .tray-readmore:hover,
+.tray-form form p input[type="submit"]:hover, .tray-callto-act h2, .tray-action-btn a, .tray-grid-view ul li:hover h2 a,.tray-grid-view ul li:hover span,.tray-tags a:hover,.tray-more-list .tray-more-btn,.tray-festured,.tray-detail-strip .tray-more-btn,
+.tray-detail-btn:hover,.nav-tabs > li.active > a, .modal-header h4,.cart-box-btn a:hover, .tray-blog-grid ul li:hover .tray-more-btn  {
+	color: #FFFFFF;
+}
